@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 27654,
+    "ip": "GODEX90.aternos.me",
+    "port": 59489,
     "version": "1.21.1",
     "try-creative": false
   },
